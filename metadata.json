@@ -1,0 +1,5 @@
+{
+  "name": "Pastel Video Creator",
+  "description": "An application to generate short videos with captions using AI. Users can select various durations and download the created videos.",
+  "requestFramePermissions": []
+}
